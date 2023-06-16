@@ -4,7 +4,7 @@ chardet
 click
 dominate
 Flask
-Flask-Bootstrap
+bootstrap-flask
 Flask-CKEditor
 Flask-Gravatar
 Flask-Login
