@@ -21,3 +21,4 @@ visitor
 Werkzeug
 WTForms
 email_validator
+psycopg2
